@@ -1,6 +1,3 @@
-
-
-
 - 🔭 I’m currently working on world of web.
 - 🌱 I’m currently pursuing my b.tech in cse.
 - 👯 I’m looking to collaborate on frontend world.
