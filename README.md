@@ -1,99 +1,21 @@
-# Hi 👋, I'm Anuj Pathak
+# 💫 About Me:
+# Hi 👋, I'm Anuj Pathak<br><br>## 🚀 Data Scientist | AI Engineer | Machine Learning Enthusiast<br><br>I'm passionate about turning raw data into meaningful insights and building AI solutions that solve real-world business problems.<br><br>### 👨‍💻 About Me<br><br>* 💻 Python Developer<br>* 📊 Data Analyst<br>* 🤖 Machine Learning Engineer<br>* 🧠 Deep Learning Enthusiast<br>* 📈 Data Visualization<br>* 🌐 Streamlit App Developer<br>* 🤝 Currently improving my Data Science and AI skills through hands-on projects.<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Programming<br><br>* Python<br>* SQL<br><br>### Data Analysis<br><br>* NumPy<br>* Pandas<br>* Matplotlib<br>* Plotly<br><br>### Machine Learning<br><br>* Scikit-learn<br>* XGBoost<br>* LightGBM<br><br>### Deep Learning<br><br>* TensorFlow<br>* Keras<br><br>### Database<br><br>* MySQL<br><br>### Deployment<br><br>* Streamlit<br>* Git<br>* GitHub<br><br>---<br><br>## 📂 Featured Projects<br><br>### 📈 House Price Prediction<br><br>Predict house prices using Machine Learning.<br><br>### ❤️ Heart Disease Prediction<br><br>Predict the risk of heart disease from patient data.<br><br>### 🎬 Movie Recommendation System<br><br>Recommend movies based on user preferences.<br><br>### 📊 Customer Churn Prediction<br><br>Identify customers likely to leave a business.<br><br>### 💬 Sentiment Analysis<br><br>Analyze positive, negative, and neutral customer reviews.<br><br>### 🤖 AI Resume Analyzer<br><br>Analyze resumes using NLP and AI techniques.<br><br>---<br><br>## 🎯 Current Goals<br><br>* Build production-ready Machine Learning applications.<br>* Learn MLOps and model deployment.<br>* Contribute to open-source AI projects.<br>* Strengthen Generative AI skills.<br><br>---<br><br>## 📫 Connect With Me<br><br>* LinkedIn: *https://www.linkedin.com/in/anuj-kumar6702*<br>* Email: *pathakanuj322@gmail.com*<br><br>⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!<br><br>
 
-## 🚀 Data Scientist | AI Engineer | Machine Learning Enthusiast
 
-I'm passionate about turning raw data into meaningful insights and building AI solutions that solve real-world business problems.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anuj.pathak.278382/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-kumar6702) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathakanuj322@gmail.com) 
 
-### 👨‍💻 About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anuj931270&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anuj931270&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anuj931270&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-* 💻 Python Developer
-* 📊 Data Analyst
-* 🤖 Machine Learning Engineer
-* 🧠 Deep Learning Enthusiast
-* 📈 Data Visualization
-* 🌐 Streamlit App Developer
-* 🤝 Currently improving my Data Science and AI skills through hands-on projects.
-
----
-
-## 🛠 Tech Stack
-
-### Programming
-
-* Python
-* SQL
-
-### Data Analysis
-
-* NumPy
-* Pandas
-* Matplotlib
-* Plotly
-
-### Machine Learning
-
-* Scikit-learn
-* XGBoost
-* LightGBM
-
-### Deep Learning
-
-* TensorFlow
-* Keras
-
-### Database
-
-* MySQL
-
-### Deployment
-
-* Streamlit
-* Git
-* GitHub
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=anuj931270&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=anuj931270&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📂 Featured Projects
-
-### 📈 House Price Prediction
-
-Predict house prices using Machine Learning.
-
-### ❤️ Heart Disease Prediction
-
-Predict the risk of heart disease from patient data.
-
-### 🎬 Movie Recommendation System
-
-Recommend movies based on user preferences.
-
-### 📊 Customer Churn Prediction
-
-Identify customers likely to leave a business.
-
-### 💬 Sentiment Analysis
-
-Analyze positive, negative, and neutral customer reviews.
-
-### 🤖 AI Resume Analyzer
-
-Analyze resumes using NLP and AI techniques.
-
----
-
-## 🎯 Current Goals
-
-* Build production-ready Machine Learning applications.
-* Learn MLOps and model deployment.
-* Contribute to open-source AI projects.
-* Strengthen Generative AI skills.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: *https://www.linkedin.com/in/anuj-kumar6702*
-* Email: *pathakanuj322@gmail.com*
-
-⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
