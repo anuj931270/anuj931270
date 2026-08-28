@@ -87,6 +87,29 @@ anuj_pathak:
 
 ---
 
+<!-- ========================================================= -->
+<!--            REAL 3D ANIMATED VISUALS (metrics)              -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=70&section=header&text=3D%20Isometric%20Stats&fontSize=32&fontColor=00D9FF&fontAlignY=70"/>
+
+<br>
+
+<!-- 3D animated isometric contribution calendar -->
+<img src="https://metrics.lecoq.io/anuj931270?template=classic&isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FKolkata&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" width="100%"/>
+
+<br>
+
+<!-- 3D animated isometric top languages -->
+<img src="https://metrics.lecoq.io/anuj931270?template=classic&languages=1&languages.limit=6&languages.chart=1&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0" width="100%"/>
+
+<sub>⚙️ Rendered live by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> — genuinely animated, no setup needed on your end.</sub>
+
+</div>
+
+---
+
 ## ⚡ Professional Profile
 
 <div align="center">
