@@ -1,9 +1,70 @@
-# 💫 About Me:
-# Hi 👋, I'm Anuj Pathak<br><br> 🚀 Data Scientist | AI Engineer | Machine Learning Enthusiast<br><br>I'm passionate about turning raw data into meaningful insights and building AI solutions that solve real-world business problems.<br><br> 👨‍💻 About Me<br><br> 💻 Python Developer<br> 📊 Data Analyst<br> 🤖 Machine Learning Engineer<br> 🧠 Deep Learning Enthusiast<br> 📈 Data Visualization<br> 🌐 Streamlit App Developer<br>
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                         -->
+<!-- ========================================================= -->
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/anuj.pathak.278382/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuj-kumar6702) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pathakanuj322@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 👋 Hi, I'm **Anuj Pathak**
 
+### 🚀 Data Scientist | AI Engineer | Machine Learning Enthusiast
+
+<p>
+  <i>Turning raw data into meaningful insights and building AI solutions
+  that solve real-world business problems.</i>
+</p>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Scientist;AI+Engineer;Machine+Learning+Engineer;Python+Developer;Deep+Learning+Enthusiast;Streamlit+App+Developer" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=anuj931270&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                       ABOUT ME                            -->
+<!-- ========================================================= -->
+
+<h2>👨‍💻 About Me</h2>
+
+<table>
+<tr>
+<td width="55%">
+
+### 🚀 Who Am I?
+
+Hi 👋 I'm **Anuj Pathak**, a passionate **Data Scientist & AI Engineer**.
+
+I'm passionate about:
+
+- 🐍 Python Development
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 📈 Data Visualization
+- ⚡ Building AI Applications
+- 🎯 Solving real-world business problems
+
+I love transforming **raw data → insights → intelligent solutions**.
+
+</td>
+
+<td width="45%">
+
+```text
+┌──────────────────────────────┐
+│        ANUJ PATHAK           │
+├──────────────────────────────┤
+│                              │
+│  🐍 Python Developer         │
+│  📊 Data Analyst             │
+│  🤖 ML Engineer              │
+│  🧠 Deep Learning            │
+│  📈 Data Visualization       │
+│  🌐 Streamlit Developer      │
+│                              │
+└──────────────────────────────┘
