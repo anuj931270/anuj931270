@@ -1,61 +1,75 @@
 <!-- ========================================================= -->
-<!--                    PROFILE HEADER                         -->
+<!--                    3D PROFILE HEADER                      -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# 👋 Hi, I'm **Anuj Pathak**
-
-### 🚀 AI Engineer | Data Scientist | Machine Learning Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+2%2B+Years+Professional+Experience;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Python+%7C+SQL+%7C+FastAPI+%7C+Streamlit;Building+AI+Solutions+for+Real-World+Problems;Turning+Raw+Data+into+Business+Insights+%F0%9F%9A%80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Anuj%20Pathak&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50"/>
 
 <br>
 
-<a href="https://github.com/anuj931270">
-<img src="https://img.shields.io/github/followers/anuj931270?label=Followers&style=for-the-badge&logo=github&color=181717"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+AI+Engineer+%7C+2%2B+Years+Experience;%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%92%BB+Python+%7C+SQL+%7C+FastAPI+%7C+Streamlit;%E2%9C%A8+Building+AI+Solutions+for+Real-World+Problems;%F0%9F%93%88+Turning+Raw+Data+into+Business+Insights" />
+
+<br><br>
 
 <a href="https://github.com/anuj931270">
-<img src="https://img.shields.io/github/stars/anuj931270?label=GitHub%20Stars&style=for-the-badge&logo=github&color=yellow"/>
+<img src="https://img.shields.io/github/followers/anuj931270?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=00D9FF&logoColor=000"/>
 </a>
+<a href="https://github.com/anuj931270">
+<img src="https://img.shields.io/github/stars/anuj931270?label=Stars&style=for-the-badge&logo=github&color=0D1117&labelColor=FFD700&logoColor=000"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=anuj931270&style=for-the-badge&color=0D1117&labelColor=7C3AED&label=PROFILE+VIEWS"/>
 
-<img src="https://komarev.com/ghpvc/?username=anuj931270&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<br><br>
+
+![](https://img.shields.io/badge/dynamic/json?color=success&label=Status&query=%24.status&url=https://raw.githubusercontent.com/anuj931270/anuj931270/main/status.json&style=for-the-badge&logo=probot&logoColor=white)
+![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&logo=handshake&logoColor=white)
 
 </div>
 
----
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <!-- ========================================================= -->
-<!--                     ABOUT ME                              -->
+<!--                     ABOUT ME - 3D CARD                     -->
 <!-- ========================================================= -->
 
 ## 🧠 About Me
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
-### 👨‍💻 AI Engineer with 2+ Years of Professional Experience
+```yaml
+anuj_pathak:
+  role: "AI Engineer / Data Scientist"
+  experience: "2+ years professional"
+  mission: "Transform raw data into intelligent, real-world AI solutions"
 
-I'm an **AI Engineer / Data Scientist** passionate about building intelligent applications that transform **raw data into meaningful insights and real-world AI solutions**.
+  core_strengths:
+    - Python, SQL & Machine Learning foundations
+    - Data Analysis, EDA & Visualization
+    - AI-powered apps via FastAPI & Streamlit
+    - Deep Learning, NLP, LLMs & GenAI (exploring)
+    - Real-world business problem solving
 
-🔹 **2+ years of professional experience** in AI & Data  
-🔹 Strong foundation in **Python, SQL & Machine Learning**  
-🔹 Experienced in **Data Analysis, EDA & Visualization**  
-🔹 Building AI-powered applications using **FastAPI & Streamlit**  
-🔹 Exploring **Deep Learning, NLP, LLMs & Generative AI**  
-🔹 Interested in solving **real-world business problems with AI**
+  currently: "Leveling up in Deep Learning & Generative AI 🚀"
+```
 
 </td>
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuj931270&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuj931270&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=ffffff" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj931270&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFD700" width="100%"/>
+</div>
 
 ---
 
@@ -63,54 +77,79 @@ I'm an **AI Engineer / Data Scientist** passionate about building intelligent ap
 
 <div align="center">
 
-| 🎯 Area | 💡 Expertise |
-|---|---|
-| 🤖 Artificial Intelligence | AI Applications & Intelligent Systems |
-| 📊 Data Science | Data Analysis, EDA & Business Insights |
-| 🧠 Machine Learning | Classification, Regression & Clustering |
-| 🧬 Deep Learning | Neural Networks & Deep Learning Concepts |
-| 💬 NLP | Text Processing, NLP Pipelines & RNN |
-| ⚙️ Backend | FastAPI, REST APIs & Python |
-| 📈 Visualization | Matplotlib, Seaborn & Plotly |
-| 🚀 Deployment | Streamlit & API-based Applications |
+<table>
+<tr><th>🎯 Area</th><th>💡 Expertise</th></tr>
+<tr><td>🤖 Artificial Intelligence</td><td>AI Applications & Intelligent Systems</td></tr>
+<tr><td>📊 Data Science</td><td>Data Analysis, EDA & Business Insights</td></tr>
+<tr><td>🧠 Machine Learning</td><td>Classification, Regression & Clustering</td></tr>
+<tr><td>🧬 Deep Learning</td><td>Neural Networks & Deep Learning Concepts</td></tr>
+<tr><td>💬 NLP</td><td>Text Processing, NLP Pipelines & RNN</td></tr>
+<tr><td>⚙️ Backend</td><td>FastAPI, REST APIs & Python</td></tr>
+<tr><td>📈 Visualization</td><td>Matplotlib, Seaborn & Plotly</td></tr>
+<tr><td>🚀 Deployment</td><td>Streamlit & API-based Applications</td></tr>
+</table>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+<!-- ========================================================= -->
+<!--                    TECH STACK - 3D ICONS                   -->
+<!-- ========================================================= -->
+
+# 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 🐍 Programming & Data
-
-<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,mysql,pandas,numpy&theme=dark" />
 
 ### 🤖 AI / Machine Learning
-
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&theme=dark" />
 
 ### ⚡ Backend & Application Development
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit&theme=dark" />
 
 ### 🗄️ Database & Tools
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,docker&theme=dark" />
 
 ### 📊 Data Visualization
-
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--              SKILL PROGRESS BARS (3D STYLE)                -->
+<!-- ========================================================= -->
+
+# 📊 Skill Proficiency
+
+<div align="center">
+
+**Python**  
+![](https://progress-bar.xyz/95?title=Strong&color=00D9FF&width=500)
+
+**Machine Learning**  
+![](https://progress-bar.xyz/90?title=Strong&color=7C3AED&width=500)
+
+**SQL & Data Analysis**  
+![](https://progress-bar.xyz/88?title=Strong&color=FFD700&width=500)
+
+**FastAPI / Deployment**  
+![](https://progress-bar.xyz/85?title=Strong&color=00FF9C&width=500)
+
+**Deep Learning**  
+![](https://progress-bar.xyz/60?title=Learning&color=FF6B6B&width=500)
+
+**NLP**  
+![](https://progress-bar.xyz/55?title=Learning&color=FF9F43&width=500)
+
+**Generative AI / LLMs**  
+![](https://progress-bar.xyz/40?title=Exploring&color=A29BFE&width=500)
 
 </div>
 
@@ -122,61 +161,43 @@ I'm an **AI Engineer / Data Scientist** passionate about building intelligent ap
 
 <table>
 <tr>
-
 <td align="center" width="25%">
 
 ### 📊 Data Science
-
-EDA  
-Data Cleaning  
+EDA · Data Cleaning  
 Feature Engineering  
 Feature Selection  
 Data Visualization  
-Statistical Analysis  
+Statistical Analysis
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🤖 Machine Learning
-
-Linear Regression  
-Logistic Regression  
-KNN  
-Decision Tree  
+Linear/Logistic Regression  
+KNN · Decision Tree  
 Random Forest  
-XGBoost  
-AdaBoost  
+XGBoost · AdaBoost
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🔍 Unsupervised ML
-
-K-Means  
-DBSCAN  
+K-Means · DBSCAN  
 Hierarchical Clustering  
 Agglomerative Clustering  
-Dendrogram  
-Silhouette Score  
+Dendrogram · Silhouette Score
 
 </td>
-
 <td align="center" width="25%">
 
 ### 🧠 AI / Deep Learning
-
-Neural Networks  
-Perceptron  
-RNN  
-NLP  
-LLMs  
-Generative AI  
-AI Applications  
+Neural Networks · Perceptron  
+RNN · NLP  
+LLMs · Generative AI  
+AI Applications
 
 </td>
-
 </tr>
 </table>
 
@@ -184,39 +205,47 @@ AI Applications
 
 ---
 
+<!-- ========================================================= -->
+<!--                   FEATURED PROJECT - 3D                    -->
+<!-- ========================================================= -->
+
 # 🚀 Featured Project
 
 <div align="center">
 
-## 📂 Client Data Injection Agent
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=100&section=header&text=Client%20Data%20Injection%20Agent&fontSize=32&fontColor=fff&animation=twinkling"/>
 
-### `AI-powered Data Processing & Management Platform`
+**`AI-Powered Data Processing & Management Platform`**
 
 </div>
 
 A complete data processing platform designed to automate the journey from **raw client data → cleaned data → database → insights**.
 
-### 🔥 Key Features
+<div align="center">
 
-```text
-📁 CSV / Excel Upload
-        ↓
-🧹 Automated Data Cleaning
-        ↓
-🔍 Data Profiling
-        ↓
-📊 Data Quality Report
-        ↓
-👀 Data Preview
-        ↓
-🗄️ MySQL Storage
-        ↓
-📜 Upload History
-        ↓
-👨‍💼 Admin Dashboard
-        ↓
-📥 Cleaned Data Download
+```mermaid
+flowchart TD
+    A[📁 CSV / Excel Upload] --> B[🧹 Automated Data Cleaning]
+    B --> C[🔍 Data Profiling]
+    C --> D[📊 Data Quality Report]
+    D --> E[👀 Data Preview]
+    E --> F[🗄️ MySQL Storage]
+    F --> G[📜 Upload History]
+    G --> H[👨‍💼 Admin Dashboard]
+    H --> I[📥 Cleaned Data Download]
+
+    style A fill:#00D9FF,stroke:#0D1117,color:#000
+    style B fill:#7C3AED,stroke:#0D1117,color:#fff
+    style C fill:#00D9FF,stroke:#0D1117,color:#000
+    style D fill:#7C3AED,stroke:#0D1117,color:#fff
+    style E fill:#00D9FF,stroke:#0D1117,color:#000
+    style F fill:#FFD700,stroke:#0D1117,color:#000
+    style G fill:#00D9FF,stroke:#0D1117,color:#000
+    style H fill:#7C3AED,stroke:#0D1117,color:#fff
+    style I fill:#00FF9C,stroke:#0D1117,color:#000
 ```
+
+</div>
 
 ### 🛠️ Project Technologies
 
@@ -228,6 +257,10 @@ A complete data processing platform designed to automate the journey from **raw 
 
 ### ✨ Project Highlights
 
+<table>
+<tr>
+<td>
+
 - 📤 CSV & Excel file processing
 - 🧹 Automatic missing-value handling
 - 🔄 Duplicate detection & removal
@@ -235,51 +268,46 @@ A complete data processing platform designed to automate the journey from **raw 
 - 📊 Data quality reporting
 - 👀 Cleaned data preview
 - 🗄️ MySQL database integration
+
+</td>
+<td>
+
 - 📜 Upload history tracking
 - 👨‍💼 Admin authentication
 - 🗑️ Admin-only file deletion
 - 📥 Cleaned CSV download
 - 🎨 Responsive dashboard UI
 - 🔐 Environment-based configuration
+- ⚡ Fast, automated pipeline
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- ========================================================= -->
+<!--              DEVELOPMENT JOURNEY - MERMAID 3D              -->
+<!-- ========================================================= -->
+
 # 📈 My Development Journey
 
-```text
-              DATA
-               │
-               ▼
-        ┌──────────────┐
-        │ Data Cleaning│
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ Data Analysis│
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ Machine      │
-        │ Learning     │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ Deep Learning│
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ NLP / LLM /  │
-        │ Generative AI│
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │ AI Solutions │
-        └──────────────┘
+```mermaid
+flowchart LR
+    A[🗃️ Data] --> B[🧹 Data Cleaning]
+    B --> C[📊 Data Analysis]
+    C --> D[🤖 Machine Learning]
+    D --> E[🧠 Deep Learning]
+    E --> F[💬 NLP / LLM / GenAI]
+    F --> G[🚀 AI Solutions]
+
+    style A fill:#0D1117,stroke:#00D9FF,color:#fff
+    style B fill:#0D1117,stroke:#7C3AED,color:#fff
+    style C fill:#0D1117,stroke:#00D9FF,color:#fff
+    style D fill:#0D1117,stroke:#7C3AED,color:#fff
+    style E fill:#0D1117,stroke:#FFD700,color:#fff
+    style F fill:#0D1117,stroke:#FF6B6B,color:#fff
+    style G fill:#0D1117,stroke:#00FF9C,color:#fff
 ```
 
 ---
@@ -288,13 +316,16 @@ A complete data processing platform designed to automate the journey from **raw 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuj931270&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj931270&theme=tokyonight&hide_border=true&border_radius=15" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuj931270&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anuj931270&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="49%"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj931270&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuj931270&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="45%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj931270&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFD700" width="95%"/>
 
 </div>
 
@@ -306,19 +337,18 @@ A complete data processing platform designed to automate the journey from **raw 
 
 <table>
 <tr>
-<td align="center">🐍<br><b>Python</b><br>Strong</td>
-<td align="center">📊<br><b>Data Science</b><br>Strong</td>
-<td align="center">🤖<br><b>Machine Learning</b><br>Strong</td>
-<td align="center">⚡<br><b>FastAPI</b><br>Strong</td>
-<td align="center">🗄️<br><b>SQL</b><br>Strong</td>
+<td align="center">🐍<br><b>Python</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center">📊<br><b>Data Science</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center">🤖<br><b>ML</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center">⚡<br><b>FastAPI</b><br>⭐⭐⭐⭐☆</td>
+<td align="center">🗄️<br><b>SQL</b><br>⭐⭐⭐⭐⭐</td>
 </tr>
-
 <tr>
-<td align="center">🧠<br><b>Deep Learning</b><br>Learning</td>
-<td align="center">💬<br><b>NLP</b><br>Learning</td>
-<td align="center">✨<br><b>Generative AI</b><br>Exploring</td>
-<td align="center">📈<br><b>Visualization</b><br>Strong</td>
-<td align="center">🚀<br><b>Deployment</b><br>Strong</td>
+<td align="center">🧠<br><b>Deep Learning</b><br>⭐⭐⭐☆☆</td>
+<td align="center">💬<br><b>NLP</b><br>⭐⭐⭐☆☆</td>
+<td align="center">✨<br><b>GenAI</b><br>⭐⭐☆☆☆</td>
+<td align="center">📈<br><b>Visualization</b><br>⭐⭐⭐⭐⭐</td>
+<td align="center">🚀<br><b>Deployment</b><br>⭐⭐⭐⭐☆</td>
 </tr>
 </table>
 
@@ -330,27 +360,24 @@ A complete data processing platform designed to automate the journey from **raw 
 
 <div align="center">
 
-> ### "Don't just build models. Build solutions that solve real problems."
+> ### 💎 "Don't just build models. Build solutions that solve real problems."
+
+```mermaid
+flowchart TD
+    A[🎯 Understand the Problem] --> B[🔎 Understand the Data]
+    B --> C[🧹 Clean & Prepare]
+    C --> D[📊 Explore & Analyze]
+    D --> E[🏗️ Build the Model]
+    E --> F[✅ Evaluate]
+    F --> G[🚀 Deploy]
+    G --> H[📈 Monitor & Improve]
+    H -.->|Iterate| A
+
+    style A fill:#0D1117,stroke:#00D9FF,color:#fff
+    style H fill:#0D1117,stroke:#00FF9C,color:#fff
+```
 
 </div>
-
-```text
-Understand the Problem
-        ↓
-Understand the Data
-        ↓
-Clean & Prepare
-        ↓
-Explore & Analyze
-        ↓
-Build the Model
-        ↓
-Evaluate
-        ↓
-Deploy
-        ↓
-Monitor & Improve
-```
 
 ---
 
@@ -358,23 +385,21 @@ Monitor & Improve
 
 <div align="center">
 
-```text
-🤖 Artificial Intelligence
-        +
-🧠 Deep Learning
-        +
-💬 Natural Language Processing
-        +
-✨ Generative AI
-        +
-🦙 Large Language Models
-        +
-⚡ AI Application Development
-```
+<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-0D1117?style=for-the-badge&color=00D9FF"/>
+<img src="https://img.shields.io/badge/🧠_Deep_Learning-0D1117?style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/badge/💬_NLP-0D1117?style=for-the-badge&color=FFD700"/>
+<br>
+<img src="https://img.shields.io/badge/✨_Generative_AI-0D1117?style=for-the-badge&color=FF6B6B"/>
+<img src="https://img.shields.io/badge/🦙_LLMs-0D1117?style=for-the-badge&color=00FF9C"/>
+<img src="https://img.shields.io/badge/⚡_AI_App_Dev-0D1117?style=for-the-badge&color=A29BFE"/>
 
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    CONNECT - 3D FOOTER                      -->
+<!-- ========================================================= -->
 
 # 🌟 Let's Connect
 
@@ -383,23 +408,17 @@ Monitor & Improve
 <a href="https://github.com/anuj931270">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/anuj-kumar6702">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 ### 🚀 Building • Learning • Improving • Creating
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
 
 </div>
