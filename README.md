@@ -4,13 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Anuj%20Pathak&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=55&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Anuj%20Pathak&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=52&descAlign=50"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+AI+Engineer+%7C+2%2B+Years+Experience;%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%92%BB+Python+%7C+SQL+%7C+FastAPI+%7C+Streamlit;%E2%9C%A8+Building+AI+Solutions+for+Real-World+Problems;%F0%9F%93%88+Turning+Raw+Data+into+Business+Insights" />
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+AI+Engineer+%7C+2%2B+Years+Experience;%F0%9F%A7%A0+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%92%BB+Python+%7C+SQL+%7C+FastAPI+%7C+Streamlit;%E2%9C%A8+Building+AI+Solutions+for+Real-World+Problems;%F0%9F%93%88+Turning+Raw+Data+into+Business+Insights" />
-
-<br><br>
 
 <a href="https://github.com/anuj931270">
 <img src="https://img.shields.io/github/followers/anuj931270?label=Followers&style=for-the-badge&logo=github&color=0D1117&labelColor=00D9FF&logoColor=000"/>
@@ -22,12 +20,11 @@
 
 <br><br>
 
-![](https://img.shields.io/badge/dynamic/json?color=success&label=Status&query=%24.status&url=https://raw.githubusercontent.com/anuj931270/anuj931270/main/status.json&style=for-the-badge&logo=probot&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-success?style=for-the-badge&logo=handshake&logoColor=white)
+![Available](https://img.shields.io/badge/AVAILABLE%20FOR-FREELANCE-blue?style=for-the-badge&logo=upwork&logoColor=white)
+![Location](https://img.shields.io/badge/BASED%20IN-INDIA-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
-
-<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
@@ -35,7 +32,9 @@
 <!--                     ABOUT ME - 3D CARD                     -->
 <!-- ========================================================= -->
 
-## 🧠 About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=70&section=header&text=About%20Me&fontSize=35&fontColor=00D9FF&fontAlignY=70"/>
+</div>
 
 <table>
 <tr>
@@ -45,7 +44,9 @@
 anuj_pathak:
   role: "AI Engineer / Data Scientist"
   experience: "2+ years professional"
-  mission: "Transform raw data into intelligent, real-world AI solutions"
+  mission: >
+    Transform raw data into intelligent,
+    real-world AI solutions
 
   core_strengths:
     - Python, SQL & Machine Learning foundations
@@ -54,7 +55,8 @@ anuj_pathak:
     - Deep Learning, NLP, LLMs & GenAI (exploring)
     - Real-world business problem solving
 
-  currently: "Leveling up in Deep Learning & Generative AI 🚀"
+  currently: "Leveling up in Deep Learning & GenAI 🚀"
+  fun_fact: "I turn messy CSVs into clean insights ✨"
 ```
 
 </td>
@@ -69,6 +71,18 @@ anuj_pathak:
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj931270&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=7C3AED&point=FFD700" width="100%"/>
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--                    TROPHIES / ACHIEVEMENTS                 -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FFD700&height=70&section=header&text=Trophy%20Case&fontSize=35&fontColor=FFD700&fontAlignY=70"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anuj931270&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=7"/>
 </div>
 
 ---
@@ -97,7 +111,9 @@ anuj_pathak:
 <!--                    TECH STACK - 3D ICONS                   -->
 <!-- ========================================================= -->
 
-# 🛠️ Tech Arsenal
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=7C3AED&height=70&section=header&text=Tech%20Arsenal&fontSize=35&fontColor=7C3AED&fontAlignY=70"/>
+</div>
 
 <div align="center">
 
@@ -126,36 +142,38 @@ anuj_pathak:
 <!--              SKILL PROGRESS BARS (3D STYLE)                -->
 <!-- ========================================================= -->
 
-# 📊 Skill Proficiency
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00FF9C&height=70&section=header&text=Skill%20Proficiency&fontSize=35&fontColor=00FF9C&fontAlignY=70"/>
+</div>
 
 <div align="center">
 
-**Python**  
+**Python**
 ![](https://progress-bar.xyz/95?title=Strong&color=00D9FF&width=500)
 
-**Machine Learning**  
+**Machine Learning**
 ![](https://progress-bar.xyz/90?title=Strong&color=7C3AED&width=500)
 
-**SQL & Data Analysis**  
+**SQL & Data Analysis**
 ![](https://progress-bar.xyz/88?title=Strong&color=FFD700&width=500)
 
-**FastAPI / Deployment**  
+**FastAPI / Deployment**
 ![](https://progress-bar.xyz/85?title=Strong&color=00FF9C&width=500)
 
-**Deep Learning**  
+**Deep Learning**
 ![](https://progress-bar.xyz/60?title=Learning&color=FF6B6B&width=500)
 
-**NLP**  
+**NLP**
 ![](https://progress-bar.xyz/55?title=Learning&color=FF9F43&width=500)
 
-**Generative AI / LLMs**  
+**Generative AI / LLMs**
 ![](https://progress-bar.xyz/40?title=Exploring&color=A29BFE&width=500)
 
 </div>
 
 ---
 
-# 🧠 AI & Machine Learning Expertise
+## 🧠 AI & Machine Learning Expertise
 
 <div align="center">
 
@@ -164,37 +182,37 @@ anuj_pathak:
 <td align="center" width="25%">
 
 ### 📊 Data Science
-EDA · Data Cleaning  
-Feature Engineering  
-Feature Selection  
-Data Visualization  
+EDA · Data Cleaning
+Feature Engineering
+Feature Selection
+Data Visualization
 Statistical Analysis
 
 </td>
 <td align="center" width="25%">
 
 ### 🤖 Machine Learning
-Linear/Logistic Regression  
-KNN · Decision Tree  
-Random Forest  
+Linear/Logistic Regression
+KNN · Decision Tree
+Random Forest
 XGBoost · AdaBoost
 
 </td>
 <td align="center" width="25%">
 
 ### 🔍 Unsupervised ML
-K-Means · DBSCAN  
-Hierarchical Clustering  
-Agglomerative Clustering  
+K-Means · DBSCAN
+Hierarchical Clustering
+Agglomerative Clustering
 Dendrogram · Silhouette Score
 
 </td>
 <td align="center" width="25%">
 
 ### 🧠 AI / Deep Learning
-Neural Networks · Perceptron  
-RNN · NLP  
-LLMs · Generative AI  
+Neural Networks · Perceptron
+RNN · NLP
+LLMs · Generative AI
 AI Applications
 
 </td>
@@ -209,11 +227,8 @@ AI Applications
 <!--                   FEATURED PROJECT - 3D                    -->
 <!-- ========================================================= -->
 
-# 🚀 Featured Project
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=100&section=header&text=Client%20Data%20Injection%20Agent&fontSize=32&fontColor=fff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=110&section=header&text=Client%20Data%20Injection%20Agent&fontSize=32&fontColor=fff&animation=twinkling"/>
 
 **`AI-Powered Data Processing & Management Platform`**
 
@@ -290,7 +305,9 @@ flowchart TD
 <!--              DEVELOPMENT JOURNEY - MERMAID 3D              -->
 <!-- ========================================================= -->
 
-# 📈 My Development Journey
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=FF6B6B&height=70&section=header&text=My%20Development%20Journey&fontSize=32&fontColor=FF6B6B&fontAlignY=70"/>
+</div>
 
 ```mermaid
 flowchart LR
@@ -309,6 +326,21 @@ flowchart LR
     style F fill:#0D1117,stroke:#FF6B6B,color:#fff
     style G fill:#0D1117,stroke:#00FF9C,color:#fff
 ```
+
+---
+
+<!-- ========================================================= -->
+<!--                   CONTRIBUTION SNAKE                       -->
+<!-- ========================================================= -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=A29BFE&height=70&section=header&text=Contribution%20Snake&fontSize=32&fontColor=A29BFE&fontAlignY=70"/>
+
+<img src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — auto-generated via GitHub Actions</sub>
+
+</div>
 
 ---
 
@@ -398,10 +430,26 @@ flowchart TD
 ---
 
 <!-- ========================================================= -->
+<!--                    RANDOM DEV QUOTE                        -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+### 💬 Quote of the Moment
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
 <!--                    CONNECT - 3D FOOTER                      -->
 <!-- ========================================================= -->
 
-# 🌟 Let's Connect
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00D9FF&height=70&section=header&text=Let's%20Connect&fontSize=35&fontColor=00D9FF&fontAlignY=70"/>
+</div>
 
 <div align="center">
 
