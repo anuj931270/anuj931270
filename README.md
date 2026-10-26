@@ -130,7 +130,13 @@
 
 ### 👻 Pac-Man
 
-<div align="center"><img src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph.svg" alt="Pac-Man board" width="100%"/></div>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man board" src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph-dark.svg" width="100%"/>
+</picture>
+</div>
 
 ---
 
