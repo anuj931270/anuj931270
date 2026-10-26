@@ -1,29 +1,32 @@
-"""Generates assets/hero-orbit.svg and assets/skills.svg.
-Edit the CONFIG block, run:  python gen_assets.py
+"""Generates assets/hero-neural.svg and assets/skills-cards.svg
+Edit the CONFIG block, then run:  python gen_assets.py
 """
 import random
 
 # ================= CONFIG: EDIT THIS =================
 NAME = "Anuj"
-TITLE = "Data Scientist &amp; AI/ML Engineer | LLMs · RAG · MLOps"
-TAGLINE = "Turning messy data into models that ship."
-CORE = "AI/ML"
+TITLE = "Data Scientist &amp; AI Engineer"
+TAGLINE = "Building RAG and agentic AI systems that ship to production."
 
-# (ring radius-x, radius-y, color, seconds per lap, direction, [skills])
-ORBITS = [
-    (130, 62, "#38bdf8", 28, 1,  ["Python", "PyTorch", "TensorFlow", "Scikit-learn"]),
-    (235, 108, "#a78bfa", 46, -1, ["LLMs", "LangChain", "RAG", "HuggingFace", "NLP"]),
-    (345, 150, "#34d399", 70, 1,  ["SQL", "Docker", "AWS", "FastAPI", "MLflow", "Airflow"]),
+# Neural-network layers: (header, color, [skills])
+LAYERS = [
+    ("DATA",    "#22d3ee", ["SQL", "Pandas", "NumPy", "MySQL"]),
+    ("ML / DL", "#a78bfa", ["XGBoost", "LSTM", "TensorFlow", "BERT"]),
+    ("GEN AI",  "#f472b6", ["RAG", "LangChain", "OpenAI", "Pinecone"]),
+    ("AGENTS",  "#fbbf24", ["LangGraph", "MCP", "Tool Calling"]),
+    ("DEPLOY",  "#34d399", ["FastAPI", "Docker", "AWS", "Azure"]),
 ]
 
-SKILLS = [  # (label, color, text)  -> keep text under ~78 chars
-    ("ML / DL",     "#38bdf8", "Scikit-learn · XGBoost · PyTorch · TensorFlow · Keras · Feature Engineering"),
-    ("GEN AI / LLM","#a78bfa", "LLMs · RAG · LangChain · LlamaIndex · HuggingFace · Fine-tuning · Agents"),
-    ("NLP / CV",    "#f472b6", "Transformers · BERT · spaCy · OpenCV · YOLO · Embeddings · FAISS"),
-    ("DATA",        "#34d399", "Python · SQL · Pandas · NumPy · PySpark · Airflow · ETL · Statistics"),
-    ("MLOPS",       "#fb923c", "Docker · MLflow · FastAPI · Git · GitHub Actions · DVC · CI/CD"),
-    ("CLOUD",       "#facc15", "AWS (S3, EC2, SageMaker) · GCP Vertex AI · Azure ML"),
-    ("VIZ / BI",    "#f87171", "Power BI · Tableau · Matplotlib · Plotly · Streamlit · A/B Testing"),
+# Skill cards: (title, color, [chips])
+SKILLS = [
+    ("AGENTIC AI",       "#fbbf24", ["AI Agents", "LangGraph", "MCP Server", "Tool Calling", "Multi-Agent", "HITL"]),
+    ("GEN AI / LLM",     "#f472b6", ["LLMs", "RAG", "LangChain", "OpenAI API", "Hugging Face", "Prompt Eng", "LangSmith"]),
+    ("VECTOR DB",        "#22d3ee", ["Pinecone", "FAISS", "ChromaDB", "Semantic Search"]),
+    ("DEEP LEARNING",    "#a78bfa", ["NLP", "Transformers", "BERT", "LSTM", "RNN", "CNN", "Word2Vec", "TensorFlow"]),
+    ("MACHINE LEARNING", "#fb923c", ["XGBoost", "Random Forest", "AdaBoost", "SVM", "KNN", "K-Means", "Time Series"]),
+    ("CLOUD / MLOPS",    "#34d399", ["AWS", "SageMaker", "Bedrock", "Azure ML", "GCP", "Docker", "Kubernetes", "CI/CD"]),
+    ("BACKEND / DATA",   "#60a5fa", ["FastAPI", "Flask", "Python", "SQL", "Pandas", "NumPy", "MySQL", "MongoDB"]),
+    ("AT A GLANCE",      "#e879f9", ["5+ years", "4 client projects", "Production AI"]),
 ]
 # =====================================================
 
@@ -31,64 +34,93 @@ FONT = "font-family=\"'Courier New', Consolas, monospace\""
 
 
 def hero():
-    W, H, cx, cy = 900, 540, 450, 275
-    random.seed(7)
+    W, H = 900, 540
+    random.seed(11)
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">']
-    o.append(f'''<defs>
-<radialGradient id="bg" cx="50%" cy="50%" r="75%"><stop offset="0" stop-color="#0b1b2b"/><stop offset="1" stop-color="#03070d"/></radialGradient>
-<radialGradient id="core" cx="35%" cy="30%" r="75%"><stop offset="0" stop-color="#bfe9ff"/><stop offset="0.45" stop-color="#2cb1ff"/><stop offset="1" stop-color="#0a5fa8"/></radialGradient>
-<linearGradient id="comet" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#f0abfc" stop-opacity="0"/><stop offset="1" stop-color="#f0abfc"/></linearGradient>
-<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect width="{W}" height="{H}" rx="6" fill="url(#bg)"/>''')
+    o.append('''<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050b18"/><stop offset="1" stop-color="#0d1633"/></linearGradient>
+<linearGradient id="tg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#1b2745" stroke-width="1" stroke-opacity="0.55"/></pattern>
+<filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>''')
+    o.append(f'<rect width="{W}" height="{H}" rx="8" fill="url(#bg)"/><rect width="{W}" height="{H}" rx="8" fill="url(#grid)"/>')
+    o.append(f'<text x="{W/2}" y="56" text-anchor="middle" fill="url(#tg)" font-size="34" font-weight="bold" {FONT}>{NAME}</text>')
+    o.append(f'<text x="{W/2}" y="84" text-anchor="middle" fill="#9fb3c8" font-size="15" {FONT}>{TITLE}</text>')
 
-    for _ in range(70):  # twinkling stars
-        x, y = random.randint(8, W - 8), random.randint(8, H - 8)
-        r = random.choice([0.8, 1, 1.3])
-        d = random.uniform(2, 6)
-        o.append(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#cfe8ff"><animate attributeName="opacity" values="0.15;1;0.15" dur="{d:.1f}s" repeatCount="indefinite" begin="-{random.uniform(0,5):.1f}s"/></circle>')
+    xs = [110 + i * 170 for i in range(len(LAYERS))]
+    cy, gap = 292, 80
+    pos = []  # per layer list of (x, y)
+    for i, (_, _, items) in enumerate(LAYERS):
+        n = len(items)
+        pos.append([(xs[i], cy + (k - (n - 1) / 2) * gap) for k in range(n)])
 
-    # shooting stars
-    for i, (y0, dur, delay) in enumerate([(60, 7, 0), (300, 9, 4)]):
-        o.append(f'<g opacity="0.9"><line x1="-90" y1="0" x2="0" y2="40" stroke="url(#comet)" stroke-width="2.5" stroke-linecap="round"/>'
-                 f'<animateTransform attributeName="transform" type="translate" values="-100,{y0}; 1000,{y0+420}" dur="{dur}s" begin="{delay}s" repeatCount="indefinite"/></g>')
+    edges = []
+    for i in range(len(LAYERS) - 1):
+        col = LAYERS[i][1]
+        for (x1, y1) in pos[i]:
+            for (x2, y2) in pos[i + 1]:
+                edges.append((x1, y1, x2, y2, col))
+                o.append(f'<line x1="{x1}" y1="{y1}" x2="{x2}" y2="{y2}" stroke="{col}" stroke-opacity="0.20" stroke-width="1"/>')
 
-    o.append(f'<text x="{cx}" y="52" text-anchor="middle" fill="#fff" font-size="32" font-weight="bold" {FONT}>{NAME}</text>')
-    o.append(f'<text x="{cx}" y="82" text-anchor="middle" fill="#5cc8ff" font-size="15" {FONT}>{TITLE}</text>')
+    for (x1, y1, x2, y2, col) in random.sample(edges, 30):  # flowing data pulses
+        dur = random.uniform(2.2, 4.6)
+        o.append(f'<circle r="3.2" fill="{col}" filter="url(#glow)"><animateMotion dur="{dur:.1f}s" repeatCount="indefinite" '
+                 f'begin="-{random.uniform(0, 4):.1f}s" path="M{x1},{y1} L{x2},{y2}"/></circle>')
 
-    for rx, ry, col, lap, direction, skills in ORBITS:  # rings
-        o.append(f'<ellipse cx="{cx}" cy="{cy}" rx="{rx}" ry="{ry}" fill="none" stroke="{col}" stroke-opacity="0.28" stroke-width="1.2"/>')
+    for i, (head, col, items) in enumerate(LAYERS):
+        x = xs[i]
+        o.append(f'<rect x="{x-46}" y="108" width="92" height="24" rx="12" fill="{col}" fill-opacity="0.12" stroke="{col}" stroke-opacity="0.7"/>')
+        o.append(f'<text x="{x}" y="124" text-anchor="middle" fill="{col}" font-size="12" font-weight="bold" {FONT}>{head}</text>')
+        for k, (nx, ny) in enumerate(pos[i]):
+            d = 2.4 + (i + k) % 4 * 0.5
+            o.append(f'<circle cx="{nx}" cy="{ny}" r="12" fill="#0a1225" stroke="{col}" stroke-width="2"/>')
+            o.append(f'<circle cx="{nx}" cy="{ny}" r="5" fill="{col}" filter="url(#glow)"><animate attributeName="r" values="4;6.5;4" dur="{d:.1f}s" repeatCount="indefinite" begin="-{k*0.6:.1f}s"/></circle>')
+            o.append(f'<text x="{nx}" y="{ny+31}" text-anchor="middle" fill="#e2e8f0" font-size="12" {FONT}>{items[k]}</text>')
 
-    for rx, ry, col, lap, direction, skills in ORBITS:  # planets
-        sweep = 0 if direction == 1 else 1
-        path = (f"M{cx-rx},{cy} a{rx},{ry} 0 1,{sweep} {2*rx},0 a{rx},{ry} 0 1,{sweep} {-2*rx},0")
-        n = len(skills)
-        for i, s in enumerate(skills):
-            off = lap * i / n
-            o.append(f'<g filter="url(#glow)"><circle r="6" fill="{col}"/><text x="11" y="4" fill="{col}" font-size="13" {FONT}>{s}</text>'
-                     f'<animateMotion dur="{lap}s" repeatCount="indefinite" begin="-{off:.1f}s" path="{path}"/></g>')
-
-    o.append(f'<circle cx="{cx}" cy="{cy}" r="38" fill="url(#core)" filter="url(#glow)"><animate attributeName="r" values="36;40;36" dur="4s" repeatCount="indefinite"/></circle>')
-    o.append(f'<text x="{cx}" y="{cy+5}" text-anchor="middle" fill="#04243d" font-size="15" font-weight="bold" {FONT}>{CORE}</text>')
-    o.append(f'<text x="{cx}" y="{H-28}" text-anchor="middle" fill="#8aa0b4" font-size="14" font-style="italic" {FONT}>"{TAGLINE}"</text>')
+    o.append(f'<text x="{W/2}" y="{H-26}" text-anchor="middle" fill="#7d8fa6" font-size="14" font-style="italic" {FONT}>{TAGLINE}</text>')
     o.append('</svg>')
-    open("assets/hero-orbit.svg", "w", encoding="utf-8").write("\n".join(o))
+    open("assets/hero-neural.svg", "w", encoding="utf-8").write("\n".join(o))
 
 
 def skills():
-    row, top, W = 46, 24, 900
-    H = top + row * len(SKILLS) + 20
-    o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">']
-    o.append(f'<rect width="{W}" height="{H}" rx="10" fill="#0b1220"/>')
-    o.append(f'<line x1="34" y1="{top}" x2="34" y2="{H-20}" stroke="#1f2d44" stroke-width="2"/>')
-    for i, (lab, col, txt) in enumerate(SKILLS):
-        y = top + i * row + 18
-        o.append(f'<circle cx="34" cy="{y}" r="5" fill="{col}"><animate attributeName="opacity" values="0.4;1;0.4" dur="{3+i*0.4:.1f}s" repeatCount="indefinite"/></circle>')
-        o.append(f'<rect x="58" y="{y-16}" width="150" height="32" rx="16" fill="{col}" fill-opacity="0.12" stroke="{col}" stroke-width="1.3"/>')
-        o.append(f'<text x="133" y="{y+5}" text-anchor="middle" fill="{col}" font-size="13" {FONT}>{lab}</text>')
-        o.append(f'<text x="226" y="{y+5}" fill="#dbe7f5" font-size="13" {FONT}>{txt}</text>')
-    o.append('</svg>')
-    open("assets/skills.svg", "w", encoding="utf-8").write("\n".join(o))
+    W, PAD, GAP, COLW = 900, 20, 20, 430
+    CH, CG, HEAD, INNER = 26, 8, 40, COLW - 32
+    cw = lambda t: len(t) * 7.4 + 22
+
+    cards = []
+    for title, col, chips in SKILLS:  # lay out chips with wrapping
+        rows, cur, x = [], [], 0
+        for c in chips:
+            w = cw(c)
+            if cur and x + w > INNER:
+                rows.append(cur); cur, x = [], 0
+            cur.append((c, w)); x += w + CG
+        rows.append(cur)
+        cards.append((title, col, rows, HEAD + len(rows) * (CH + CG) + 10))
+
+    o_body, y = [], PAD
+    for r in range(0, len(cards), 2):
+        pair = cards[r:r + 2]
+        h = max(c[3] for c in pair)
+        for j, (title, col, rows, _) in enumerate(pair):
+            x0 = PAD + j * (COLW + GAP)
+            o_body.append(f'<rect x="{x0}" y="{y}" width="{COLW}" height="{h}" rx="12" fill="#0d1428" stroke="{col}" stroke-opacity="0.45"/>')
+            o_body.append(f'<rect x="{x0}" y="{y}" width="{COLW}" height="4" rx="2" fill="{col}" fill-opacity="0.9"/>')
+            o_body.append(f'<circle cx="{x0+22}" cy="{y+24}" r="5" fill="{col}"><animate attributeName="opacity" values="0.35;1;0.35" dur="3s" repeatCount="indefinite" begin="-{(r+j)*0.5:.1f}s"/></circle>')
+            o_body.append(f'<text x="{x0+36}" y="{y+29}" fill="{col}" font-size="14" font-weight="bold" {FONT}>{title}</text>')
+            for ri, row in enumerate(rows):
+                cx = x0 + 16
+                cyy = y + HEAD + ri * (CH + CG)
+                for ci, (chip, w) in enumerate(row):
+                    o_body.append(f'<rect x="{cx:.1f}" y="{cyy}" width="{w:.1f}" height="{CH}" rx="13" fill="{col}" fill-opacity="0.10" stroke="{col}" stroke-opacity="0.55">'
+                                  f'<animate attributeName="stroke-opacity" values="0.35;0.9;0.35" dur="{4+(ci+ri)%3}s" repeatCount="indefinite" begin="-{(ci*0.7+ri):.1f}s"/></rect>')
+                    o_body.append(f'<text x="{cx+w/2:.1f}" y="{cyy+17}" text-anchor="middle" fill="#e2e8f0" font-size="12" {FONT}>{chip}</text>')
+                    cx += w + CG
+        y += h + GAP
+    H = int(y - GAP + PAD)
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}">',
+           f'<rect width="{W}" height="{H}" rx="12" fill="#070d1d"/>'] + o_body + ['</svg>']
+    open("assets/skills-cards.svg", "w", encoding="utf-8").write("\n".join(out))
 
 
 hero(); skills(); print("assets generated")
