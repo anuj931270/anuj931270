@@ -126,7 +126,7 @@
 
 ### 🚀 Galaga
 
-<div align="center"><img src="assets/galaga-demo.svg" alt="Galaga board" width="100%"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph.svg" alt="Galaga board" width="100%"/></div>
 
 ### 👻 Pac-Man
 
