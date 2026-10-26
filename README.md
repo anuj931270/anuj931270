@@ -120,34 +120,17 @@
 
 </div>
 
-## 🎮 My contributions, as an arcade
+## 🎮 Arcade boards
+
+<div align="center"><sub>Just for fun, drawn on sample data.</sub></div>
 
 ### 🚀 Galaga
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph.svg">
-</picture>
-</div>
+<div align="center"><img src="assets/galaga-demo.svg" alt="Galaga board" width="100%"/></div>
 
 ### 👻 Pac-Man
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
-### 🎮 Demo boards (sample data, not my real activity)
-
-<div align="center">
-<img src="assets/galaga-demo.svg" alt="Galaga demo board" width="100%"/>
-<img src="assets/pacman-demo.svg" alt="Pac-Man demo board" width="100%"/>
-</div>
+<div align="center"><img src="assets/pacman-demo.svg" alt="Pac-Man board" width="100%"/></div>
 
 ---
 
