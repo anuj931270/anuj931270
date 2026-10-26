@@ -12,13 +12,13 @@
 
 ## 👋 About me
 
-- 🧠 **Data Scientist & AI Engineer** with **5+ years** building end-to-end Machine Learning, Deep Learning and Generative AI solutions for real business problems
+- 🧠 **Data Scientist & AI Engineer** with **3+ years** building end-to-end Machine Learning, Deep Learning and Generative AI solutions for real business problems
 - 🤖 I specialize in **RAG applications** and **agentic workflows**: multi-agent systems with LangGraph, MCP servers, tool calling and human-in-the-loop approvals
 - 🏢 At **Capgemini** since May 2021 as Data Scientist & AI/ML Engineer
 - 🚀 I ship models and agents as **FastAPI services** on **AWS and Azure** with Docker, Kubernetes and CI/CD
 - 🛡️ I care about reliability: guardrails, role-based access, grounded prompts to cut hallucinations, and LLM evaluation with LangSmith
 - 📈 Classical ML too: demand forecasting, NLP sentiment models and time-series work
-- 🎓 B.Tech in Computer Science, Sharda University (2018 – 2022)
+- 🎓 B.Tech in Computer Science, Rajasthan Technical University University (2020 – 2024)
 - 💬 Ask me about: **RAG, LangGraph agents, MCP servers, forecasting, deploying ML**
 
 ## 🧠 Skills
@@ -120,12 +120,25 @@
 
 </div>
 
-## 🐍 Contribution snake
+## 🎮 My contributions, as an arcade
+
+### 🚀 Galaga
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/github-snake-dark.svg"/>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/github-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph.svg">
+  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/galaga-contribution-graph.svg">
+</picture>
+</div>
+
+### 👻 Pac-Man
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anuj931270/anuj931270/output/pacman-contribution-graph.svg">
 </picture>
 </div>
 
